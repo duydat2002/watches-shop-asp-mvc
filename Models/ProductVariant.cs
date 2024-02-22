@@ -17,6 +17,8 @@ public partial class ProductVariant
 
     public int Quantity { get; set; }
 
+    public int Discount { get; set; }
+
     public virtual ICollection<CartDetail> CartDetails { get; set; } = new List<CartDetail>();
 
     public virtual Color Color { get; set; } = null!;

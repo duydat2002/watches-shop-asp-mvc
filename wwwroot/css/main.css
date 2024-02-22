@@ -104,6 +104,10 @@ button {
   padding-left: 3px;
 }
 
+.hidden {
+  display: none;
+}
+
 .wrapper {
   padding: 40px 0;
 }

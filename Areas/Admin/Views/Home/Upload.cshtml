@@ -3,23 +3,24 @@
 <div>
   <form method="post" enctype="multipart/form-data">
     <div class="form-group">
-      <label asp-for="ProductVariant.Price"></label>
-      <input asp-for="ProductVariant.Price" />
+      <label asp-for="Price"></label>
+      <input asp-for="Price" />
     </div>
 
     <div class="form-group">
-      <label asp-for="ProductVariant.SizeId" class="control-label"></label>
-      <select asp-for="ProductVariant.SizeId" class="form-control" asp-items="ViewBag.Sizes"></select>
+      <label asp-for="SizeId" class="control-label"></label>
+      <select asp-for="SizeId" class="form-control" asp-items="ViewBag.Sizes"></select>
     </div>
 
     <div class="form-group">
-      <label asp-for="ProductImage.ProductImagePath" class="control-label"></label>
-      <input asp-for="ProductImage.ProductImagePath" name="productImage" type="file" class="form-control"
+      <label asp-for="ProductImagePath" class="control-label"></label>
+      <input asp-for="ProductImagePath" name="productImage" type="file" class="form-control"
         onchange="previewImage(this)" />
     </div>
 
     <img id="imagePreview" class="img-preview rounded-12"
-      src="~/image/california-watch-co-mavericks-chrono-ss-navy-red-1.png" alt="Preview" style="max-width: 200px;" />
+      src="~/image/products/california-watch-co-mavericks-chrono-ss-navy-red-1.png" alt="Preview"
+      style="max-width: 200px;" />
 
     <button class="btn btn-danger">Upload</button>
   </form>
@@ -33,7 +34,7 @@
       if (file) {
         preview.src = URL.createObjectURL(file);
       } else {
-        preview.src = "~/image/california-watch-co-mavericks-chrono-ss-navy-red-1.png";
+        preview.src = "~/image/products/california-watch-co-mavericks-chrono-ss-navy-red-1.png";
       }
     }
   </script>

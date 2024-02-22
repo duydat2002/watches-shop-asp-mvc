@@ -358,3 +358,13 @@ function scrollUp() {
   });
 }
 scrollUp();
+
+function changeUrlParams(params) {
+  const newurl =
+    window.location.protocol +
+    "//" +
+    window.location.host +
+    window.location.pathname +
+    (params.trim() == "" ? "" : `?${params}`);
+  window.history.pushState({ path: newurl }, "", newurl);
+}

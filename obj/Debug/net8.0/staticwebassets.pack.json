@@ -25,10 +25,6 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\55-home_default.png",
-      "PackagePath": "staticwebassets\\image\\55-home_default.png"
-    },
-    {
       "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\Banner-1.png",
       "PackagePath": "staticwebassets\\image\\Banner-1.png"
     },
@@ -113,64 +109,8 @@
       "PackagePath": "staticwebassets\\image\\american_express.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\archetype-nemesis-automatic-1.png",
-      "PackagePath": "staticwebassets\\image\\archetype-nemesis-automatic-1.png"
-    },
-    {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\archetype-nemesis-automatic-2.png",
-      "PackagePath": "staticwebassets\\image\\archetype-nemesis-automatic-2.png"
-    },
-    {
       "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\banner-products.png",
       "PackagePath": "staticwebassets\\image\\banner-products.png"
-    },
-    {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\california-watch-co-mavericks-chrono-ss-navy-red-1.png",
-      "PackagePath": "staticwebassets\\image\\california-watch-co-mavericks-chrono-ss-navy-red-1.png"
-    },
-    {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\california-watch-co-mavericks-chrono-ss-navy-red-2.png",
-      "PackagePath": "staticwebassets\\image\\california-watch-co-mavericks-chrono-ss-navy-red-2.png"
-    },
-    {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\california-watch-co-mavericks-chrono-ss-navy-red-3.png",
-      "PackagePath": "staticwebassets\\image\\california-watch-co-mavericks-chrono-ss-navy-red-3.png"
-    },
-    {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\california-watch-co-mavericks-chrono-ss-navy-red-4.png",
-      "PackagePath": "staticwebassets\\image\\california-watch-co-mavericks-chrono-ss-navy-red-4.png"
-    },
-    {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\california-watch-co-mavericks-chrono-ss-navy-red-5.png",
-      "PackagePath": "staticwebassets\\image\\california-watch-co-mavericks-chrono-ss-navy-red-5.png"
-    },
-    {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\california-watch-co-mavericks-chrono-ss-navy-red-6.png",
-      "PackagePath": "staticwebassets\\image\\california-watch-co-mavericks-chrono-ss-navy-red-6.png"
-    },
-    {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\devon-tread-1E-1.png",
-      "PackagePath": "staticwebassets\\image\\devon-tread-1E-1.png"
-    },
-    {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\devon-tread-1E-2.png",
-      "PackagePath": "staticwebassets\\image\\devon-tread-1E-2.png"
-    },
-    {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\gshock-ga2100-carbon-core-guard-anadigi-red-out-1.png",
-      "PackagePath": "staticwebassets\\image\\gshock-ga2100-carbon-core-guard-anadigi-red-out-1.png"
-    },
-    {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\gshock-ga2100-carbon-core-guard-anadigi-red-out-2.png",
-      "PackagePath": "staticwebassets\\image\\gshock-ga2100-carbon-core-guard-anadigi-red-out-2.png"
-    },
-    {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\gshock-ga2100-carbon-core-guard-anadigi-red-out-3.png",
-      "PackagePath": "staticwebassets\\image\\gshock-ga2100-carbon-core-guard-anadigi-red-out-3.png"
-    },
-    {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\gshock-ga2100-carbon-core-guard-anadigi-red-out-4.png",
-      "PackagePath": "staticwebassets\\image\\gshock-ga2100-carbon-core-guard-anadigi-red-out-4.png"
     },
     {
       "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\left-banner-1.png",
@@ -181,224 +121,304 @@
       "PackagePath": "staticwebassets\\image\\master_card.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\nsquare-snake-queen-automatic-39mm-cherry-pink-1.png",
-      "PackagePath": "staticwebassets\\image\\nsquare-snake-queen-automatic-39mm-cherry-pink-1.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\55-home_default.png",
+      "PackagePath": "staticwebassets\\image\\products\\55-home_default.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\nsquare-snake-queen-automatic-39mm-cherry-pink-2.png",
-      "PackagePath": "staticwebassets\\image\\nsquare-snake-queen-automatic-39mm-cherry-pink-2.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\archetype-nemesis-automatic-1.png",
+      "PackagePath": "staticwebassets\\image\\products\\archetype-nemesis-automatic-1.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\nsquare-snake-queen-automatic-39mm-cherry-pink-3.png",
-      "PackagePath": "staticwebassets\\image\\nsquare-snake-queen-automatic-39mm-cherry-pink-3.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\archetype-nemesis-automatic-2.png",
+      "PackagePath": "staticwebassets\\image\\products\\archetype-nemesis-automatic-2.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\nsquare-snake-queen-automatic-39mm-cherry-pink-4.png",
-      "PackagePath": "staticwebassets\\image\\nsquare-snake-queen-automatic-39mm-cherry-pink-4.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\california-watch-co-mavericks-chrono-ss-navy-red-1.png",
+      "PackagePath": "staticwebassets\\image\\products\\california-watch-co-mavericks-chrono-ss-navy-red-1.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\nsquare-snake-queen-automatic-39mm-cherry-pink-5.png",
-      "PackagePath": "staticwebassets\\image\\nsquare-snake-queen-automatic-39mm-cherry-pink-5.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\california-watch-co-mavericks-chrono-ss-navy-red-2.png",
+      "PackagePath": "staticwebassets\\image\\products\\california-watch-co-mavericks-chrono-ss-navy-red-2.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\nsquare-snake-queen-automatic-39mm-purple-1.png",
-      "PackagePath": "staticwebassets\\image\\nsquare-snake-queen-automatic-39mm-purple-1.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\california-watch-co-mavericks-chrono-ss-navy-red-3.png",
+      "PackagePath": "staticwebassets\\image\\products\\california-watch-co-mavericks-chrono-ss-navy-red-3.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\nsquare-snake-queen-automatic-39mm-purple-3.png",
-      "PackagePath": "staticwebassets\\image\\nsquare-snake-queen-automatic-39mm-purple-3.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\california-watch-co-mavericks-chrono-ss-navy-red-4.png",
+      "PackagePath": "staticwebassets\\image\\products\\california-watch-co-mavericks-chrono-ss-navy-red-4.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\nsquare-snake-queen-automatic-39mm-purple-4.png",
-      "PackagePath": "staticwebassets\\image\\nsquare-snake-queen-automatic-39mm-purple-4.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\california-watch-co-mavericks-chrono-ss-navy-red-5.png",
+      "PackagePath": "staticwebassets\\image\\products\\california-watch-co-mavericks-chrono-ss-navy-red-5.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\nsquare-snake-queen-automatic-39mm-purple-5.png",
-      "PackagePath": "staticwebassets\\image\\nsquare-snake-queen-automatic-39mm-purple-5.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\california-watch-co-mavericks-chrono-ss-navy-red-6.png",
+      "PackagePath": "staticwebassets\\image\\products\\california-watch-co-mavericks-chrono-ss-navy-red-6.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\suunto-9-peak-granite-blue-titanium-1.png",
-      "PackagePath": "staticwebassets\\image\\suunto-9-peak-granite-blue-titanium-1.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\devon-tread-1E-1.png",
+      "PackagePath": "staticwebassets\\image\\products\\devon-tread-1E-1.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\suunto-9-peak-granite-blue-titanium-2.png",
-      "PackagePath": "staticwebassets\\image\\suunto-9-peak-granite-blue-titanium-2.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\devon-tread-1E-2.png",
+      "PackagePath": "staticwebassets\\image\\products\\devon-tread-1E-2.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\suunto-9-peak-granite-blue-titanium-3.png",
-      "PackagePath": "staticwebassets\\image\\suunto-9-peak-granite-blue-titanium-3.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\gshock-ga2100-carbon-core-guard-anadigi-red-out-1.png",
+      "PackagePath": "staticwebassets\\image\\products\\gshock-ga2100-carbon-core-guard-anadigi-red-out-1.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\suunto-9-peak-granite-blue-titanium-4.png",
-      "PackagePath": "staticwebassets\\image\\suunto-9-peak-granite-blue-titanium-4.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\gshock-ga2100-carbon-core-guard-anadigi-red-out-2.png",
+      "PackagePath": "staticwebassets\\image\\products\\gshock-ga2100-carbon-core-guard-anadigi-red-out-2.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\suunto-9-peak-granite-blue-titanium-5.png",
-      "PackagePath": "staticwebassets\\image\\suunto-9-peak-granite-blue-titanium-5.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\gshock-ga2100-carbon-core-guard-anadigi-red-out-3.png",
+      "PackagePath": "staticwebassets\\image\\products\\gshock-ga2100-carbon-core-guard-anadigi-red-out-3.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\suunto-9-peak-granite-blue-titanium-6.png",
-      "PackagePath": "staticwebassets\\image\\suunto-9-peak-granite-blue-titanium-6.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\gshock-ga2100-carbon-core-guard-anadigi-red-out-4.png",
+      "PackagePath": "staticwebassets\\image\\products\\gshock-ga2100-carbon-core-guard-anadigi-red-out-4.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\suunto-spartan-trainer-wrist-hr-black-techwear-1.png",
-      "PackagePath": "staticwebassets\\image\\suunto-spartan-trainer-wrist-hr-black-techwear-1.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\nsquare-snake-queen-automatic-39mm-cherry-pink-1.png",
+      "PackagePath": "staticwebassets\\image\\products\\nsquare-snake-queen-automatic-39mm-cherry-pink-1.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\suunto-spartan-trainer-wrist-hr-black-techwear-2.png",
-      "PackagePath": "staticwebassets\\image\\suunto-spartan-trainer-wrist-hr-black-techwear-2.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\nsquare-snake-queen-automatic-39mm-cherry-pink-2.png",
+      "PackagePath": "staticwebassets\\image\\products\\nsquare-snake-queen-automatic-39mm-cherry-pink-2.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\the-electricianz-s.now-gold-white-1.png",
-      "PackagePath": "staticwebassets\\image\\the-electricianz-s.now-gold-white-1.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\nsquare-snake-queen-automatic-39mm-cherry-pink-3.png",
+      "PackagePath": "staticwebassets\\image\\products\\nsquare-snake-queen-automatic-39mm-cherry-pink-3.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\the-electricianz-s.now-gold-white-2.png",
-      "PackagePath": "staticwebassets\\image\\the-electricianz-s.now-gold-white-2.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\nsquare-snake-queen-automatic-39mm-cherry-pink-4.png",
+      "PackagePath": "staticwebassets\\image\\products\\nsquare-snake-queen-automatic-39mm-cherry-pink-4.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\the-electricianz-s.now-gold-white-3.png",
-      "PackagePath": "staticwebassets\\image\\the-electricianz-s.now-gold-white-3.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\nsquare-snake-queen-automatic-39mm-cherry-pink-5.png",
+      "PackagePath": "staticwebassets\\image\\products\\nsquare-snake-queen-automatic-39mm-cherry-pink-5.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\the-electricianz-s.now-gold-white-4.png",
-      "PackagePath": "staticwebassets\\image\\the-electricianz-s.now-gold-white-4.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\nsquare-snake-queen-automatic-39mm-purple-1.png",
+      "PackagePath": "staticwebassets\\image\\products\\nsquare-snake-queen-automatic-39mm-purple-1.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\the-electricianz-s.now-gold-white-5.png",
-      "PackagePath": "staticwebassets\\image\\the-electricianz-s.now-gold-white-5.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\nsquare-snake-queen-automatic-39mm-purple-3.png",
+      "PackagePath": "staticwebassets\\image\\products\\nsquare-snake-queen-automatic-39mm-purple-3.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\thomas-earnshaw-longcase-automatic-rose-gold-brown-1.png",
-      "PackagePath": "staticwebassets\\image\\thomas-earnshaw-longcase-automatic-rose-gold-brown-1.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\nsquare-snake-queen-automatic-39mm-purple-4.png",
+      "PackagePath": "staticwebassets\\image\\products\\nsquare-snake-queen-automatic-39mm-purple-4.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\thomas-earnshaw-longcase-automatic-rose-gold-brown-2.png",
-      "PackagePath": "staticwebassets\\image\\thomas-earnshaw-longcase-automatic-rose-gold-brown-2.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\nsquare-snake-queen-automatic-39mm-purple-5.png",
+      "PackagePath": "staticwebassets\\image\\products\\nsquare-snake-queen-automatic-39mm-purple-5.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\thomas-earnshaw-longcase-automatic-rose-gold-brown-3.png",
-      "PackagePath": "staticwebassets\\image\\thomas-earnshaw-longcase-automatic-rose-gold-brown-3.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\suunto-9-peak-granite-blue-titanium-1.png",
+      "PackagePath": "staticwebassets\\image\\products\\suunto-9-peak-granite-blue-titanium-1.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\thomas-earnshaw-longcase-automatic-rose-gold-brown-4.png",
-      "PackagePath": "staticwebassets\\image\\thomas-earnshaw-longcase-automatic-rose-gold-brown-4.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\suunto-9-peak-granite-blue-titanium-2.png",
+      "PackagePath": "staticwebassets\\image\\products\\suunto-9-peak-granite-blue-titanium-2.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\thomas-earnshaw-longcase-automatic-rose-gold-brown-5.png",
-      "PackagePath": "staticwebassets\\image\\thomas-earnshaw-longcase-automatic-rose-gold-brown-5.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\suunto-9-peak-granite-blue-titanium-3.png",
+      "PackagePath": "staticwebassets\\image\\products\\suunto-9-peak-granite-blue-titanium-3.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\thomas-earnshaw-longcase-automatic-rose-gold-brown-6.png",
-      "PackagePath": "staticwebassets\\image\\thomas-earnshaw-longcase-automatic-rose-gold-brown-6.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\suunto-9-peak-granite-blue-titanium-4.png",
+      "PackagePath": "staticwebassets\\image\\products\\suunto-9-peak-granite-blue-titanium-4.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\tickwatch-e3-1.png",
-      "PackagePath": "staticwebassets\\image\\tickwatch-e3-1.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\suunto-9-peak-granite-blue-titanium-5.png",
+      "PackagePath": "staticwebassets\\image\\products\\suunto-9-peak-granite-blue-titanium-5.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\tickwatch-e3-2.png",
-      "PackagePath": "staticwebassets\\image\\tickwatch-e3-2.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\suunto-9-peak-granite-blue-titanium-6.png",
+      "PackagePath": "staticwebassets\\image\\products\\suunto-9-peak-granite-blue-titanium-6.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\tickwatch-e3-3.png",
-      "PackagePath": "staticwebassets\\image\\tickwatch-e3-3.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\suunto-spartan-trainer-wrist-hr-black-techwear-1.png",
+      "PackagePath": "staticwebassets\\image\\products\\suunto-spartan-trainer-wrist-hr-black-techwear-1.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\tickwatch-e3-4.png",
-      "PackagePath": "staticwebassets\\image\\tickwatch-e3-4.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\suunto-spartan-trainer-wrist-hr-black-techwear-2.png",
+      "PackagePath": "staticwebassets\\image\\products\\suunto-spartan-trainer-wrist-hr-black-techwear-2.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\tickwatch-e3-5.png",
-      "PackagePath": "staticwebassets\\image\\tickwatch-e3-5.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\the-electricianz-s.now-gold-white-1.png",
+      "PackagePath": "staticwebassets\\image\\products\\the-electricianz-s.now-gold-white-1.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\tickwatch-e3-6.png",
-      "PackagePath": "staticwebassets\\image\\tickwatch-e3-6.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\the-electricianz-s.now-gold-white-2.png",
+      "PackagePath": "staticwebassets\\image\\products\\the-electricianz-s.now-gold-white-2.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\tickwatch-pro-3-1.png",
-      "PackagePath": "staticwebassets\\image\\tickwatch-pro-3-1.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\the-electricianz-s.now-gold-white-3.png",
+      "PackagePath": "staticwebassets\\image\\products\\the-electricianz-s.now-gold-white-3.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\tickwatch-pro-3-2.png",
-      "PackagePath": "staticwebassets\\image\\tickwatch-pro-3-2.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\the-electricianz-s.now-gold-white-4.png",
+      "PackagePath": "staticwebassets\\image\\products\\the-electricianz-s.now-gold-white-4.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\tickwatch-pro-3-3.png",
-      "PackagePath": "staticwebassets\\image\\tickwatch-pro-3-3.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\the-electricianz-s.now-gold-white-5.png",
+      "PackagePath": "staticwebassets\\image\\products\\the-electricianz-s.now-gold-white-5.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\tickwatch-pro-3-4.png",
-      "PackagePath": "staticwebassets\\image\\tickwatch-pro-3-4.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\thomas-earnshaw-longcase-automatic-rose-gold-brown-1.png",
+      "PackagePath": "staticwebassets\\image\\products\\thomas-earnshaw-longcase-automatic-rose-gold-brown-1.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\tickwatch-pro-3-5.png",
-      "PackagePath": "staticwebassets\\image\\tickwatch-pro-3-5.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\thomas-earnshaw-longcase-automatic-rose-gold-brown-2.png",
+      "PackagePath": "staticwebassets\\image\\products\\thomas-earnshaw-longcase-automatic-rose-gold-brown-2.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\timex-midtown-36mm-gold-ss-1.png",
-      "PackagePath": "staticwebassets\\image\\timex-midtown-36mm-gold-ss-1.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\thomas-earnshaw-longcase-automatic-rose-gold-brown-3.png",
+      "PackagePath": "staticwebassets\\image\\products\\thomas-earnshaw-longcase-automatic-rose-gold-brown-3.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\timex-midtown-36mm-gold-ss-2.png",
-      "PackagePath": "staticwebassets\\image\\timex-midtown-36mm-gold-ss-2.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\thomas-earnshaw-longcase-automatic-rose-gold-brown-4.png",
+      "PackagePath": "staticwebassets\\image\\products\\thomas-earnshaw-longcase-automatic-rose-gold-brown-4.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\timex-midtown-36mm-gold-ss-3.png",
-      "PackagePath": "staticwebassets\\image\\timex-midtown-36mm-gold-ss-3.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\thomas-earnshaw-longcase-automatic-rose-gold-brown-5.png",
+      "PackagePath": "staticwebassets\\image\\products\\thomas-earnshaw-longcase-automatic-rose-gold-brown-5.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\timex-midtown-36mm-gold-ss-4.png",
-      "PackagePath": "staticwebassets\\image\\timex-midtown-36mm-gold-ss-4.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\thomas-earnshaw-longcase-automatic-rose-gold-brown-6.png",
+      "PackagePath": "staticwebassets\\image\\products\\thomas-earnshaw-longcase-automatic-rose-gold-brown-6.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\timex-midtown-36mm-gold-ss-5.png",
-      "PackagePath": "staticwebassets\\image\\timex-midtown-36mm-gold-ss-5.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\tickwatch-e3-1.png",
+      "PackagePath": "staticwebassets\\image\\products\\tickwatch-e3-1.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\timex-midtown-36mm-silver-ss-1.png",
-      "PackagePath": "staticwebassets\\image\\timex-midtown-36mm-silver-ss-1.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\tickwatch-e3-2.png",
+      "PackagePath": "staticwebassets\\image\\products\\tickwatch-e3-2.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\timex-midtown-36mm-silver-ss-2.png",
-      "PackagePath": "staticwebassets\\image\\timex-midtown-36mm-silver-ss-2.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\tickwatch-e3-3.png",
+      "PackagePath": "staticwebassets\\image\\products\\tickwatch-e3-3.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\timex-midtown-36mm-silver-ss-3.png",
-      "PackagePath": "staticwebassets\\image\\timex-midtown-36mm-silver-ss-3.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\tickwatch-e3-4.png",
+      "PackagePath": "staticwebassets\\image\\products\\tickwatch-e3-4.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\timex-midtown-36mm-silver-ss-4.png",
-      "PackagePath": "staticwebassets\\image\\timex-midtown-36mm-silver-ss-4.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\tickwatch-e3-5.png",
+      "PackagePath": "staticwebassets\\image\\products\\tickwatch-e3-5.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\timex-midtown-36mm-silver-ss-5.png",
-      "PackagePath": "staticwebassets\\image\\timex-midtown-36mm-silver-ss-5.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\tickwatch-e3-6.png",
+      "PackagePath": "staticwebassets\\image\\products\\tickwatch-e3-6.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\undone-batman-chronograph-caped-crusader-special-edition-1.png",
-      "PackagePath": "staticwebassets\\image\\undone-batman-chronograph-caped-crusader-special-edition-1.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\tickwatch-pro-3-1.png",
+      "PackagePath": "staticwebassets\\image\\products\\tickwatch-pro-3-1.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\undone-batman-chronograph-caped-crusader-special-edition-2.png",
-      "PackagePath": "staticwebassets\\image\\undone-batman-chronograph-caped-crusader-special-edition-2.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\tickwatch-pro-3-2.png",
+      "PackagePath": "staticwebassets\\image\\products\\tickwatch-pro-3-2.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\undone-batman-chronograph-caped-crusader-special-edition-3.png",
-      "PackagePath": "staticwebassets\\image\\undone-batman-chronograph-caped-crusader-special-edition-3.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\tickwatch-pro-3-3.png",
+      "PackagePath": "staticwebassets\\image\\products\\tickwatch-pro-3-3.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\undone-batman-chronograph-caped-crusader-special-edition-4.png",
-      "PackagePath": "staticwebassets\\image\\undone-batman-chronograph-caped-crusader-special-edition-4.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\tickwatch-pro-3-4.png",
+      "PackagePath": "staticwebassets\\image\\products\\tickwatch-pro-3-4.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\undone-batman-chronograph-caped-crusader-special-edition-5.png",
-      "PackagePath": "staticwebassets\\image\\undone-batman-chronograph-caped-crusader-special-edition-5.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\tickwatch-pro-3-5.png",
+      "PackagePath": "staticwebassets\\image\\products\\tickwatch-pro-3-5.png"
     },
     {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\undone-batman-chronograph-caped-crusader-special-edition-6.png",
-      "PackagePath": "staticwebassets\\image\\undone-batman-chronograph-caped-crusader-special-edition-6.png"
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\timex-midtown-36mm-gold-ss-1.png",
+      "PackagePath": "staticwebassets\\image\\products\\timex-midtown-36mm-gold-ss-1.png"
+    },
+    {
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\timex-midtown-36mm-gold-ss-2.png",
+      "PackagePath": "staticwebassets\\image\\products\\timex-midtown-36mm-gold-ss-2.png"
+    },
+    {
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\timex-midtown-36mm-gold-ss-3.png",
+      "PackagePath": "staticwebassets\\image\\products\\timex-midtown-36mm-gold-ss-3.png"
+    },
+    {
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\timex-midtown-36mm-gold-ss-4.png",
+      "PackagePath": "staticwebassets\\image\\products\\timex-midtown-36mm-gold-ss-4.png"
+    },
+    {
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\timex-midtown-36mm-gold-ss-5.png",
+      "PackagePath": "staticwebassets\\image\\products\\timex-midtown-36mm-gold-ss-5.png"
+    },
+    {
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\timex-midtown-36mm-silver-ss-1.png",
+      "PackagePath": "staticwebassets\\image\\products\\timex-midtown-36mm-silver-ss-1.png"
+    },
+    {
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\timex-midtown-36mm-silver-ss-2.png",
+      "PackagePath": "staticwebassets\\image\\products\\timex-midtown-36mm-silver-ss-2.png"
+    },
+    {
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\timex-midtown-36mm-silver-ss-3.png",
+      "PackagePath": "staticwebassets\\image\\products\\timex-midtown-36mm-silver-ss-3.png"
+    },
+    {
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\timex-midtown-36mm-silver-ss-4.png",
+      "PackagePath": "staticwebassets\\image\\products\\timex-midtown-36mm-silver-ss-4.png"
+    },
+    {
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\timex-midtown-36mm-silver-ss-5.png",
+      "PackagePath": "staticwebassets\\image\\products\\timex-midtown-36mm-silver-ss-5.png"
+    },
+    {
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\undone-batman-chronograph-caped-crusader-special-edition-1.png",
+      "PackagePath": "staticwebassets\\image\\products\\undone-batman-chronograph-caped-crusader-special-edition-1.png"
+    },
+    {
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\undone-batman-chronograph-caped-crusader-special-edition-2.png",
+      "PackagePath": "staticwebassets\\image\\products\\undone-batman-chronograph-caped-crusader-special-edition-2.png"
+    },
+    {
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\undone-batman-chronograph-caped-crusader-special-edition-3.png",
+      "PackagePath": "staticwebassets\\image\\products\\undone-batman-chronograph-caped-crusader-special-edition-3.png"
+    },
+    {
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\undone-batman-chronograph-caped-crusader-special-edition-4.png",
+      "PackagePath": "staticwebassets\\image\\products\\undone-batman-chronograph-caped-crusader-special-edition-4.png"
+    },
+    {
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\undone-batman-chronograph-caped-crusader-special-edition-5.png",
+      "PackagePath": "staticwebassets\\image\\products\\undone-batman-chronograph-caped-crusader-special-edition-5.png"
+    },
+    {
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\undone-batman-chronograph-caped-crusader-special-edition-6.png",
+      "PackagePath": "staticwebassets\\image\\products\\undone-batman-chronograph-caped-crusader-special-edition-6.png"
+    },
+    {
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\xeric-halograph-ii-automatic-green-brown-limited-edition-1.png",
+      "PackagePath": "staticwebassets\\image\\products\\xeric-halograph-ii-automatic-green-brown-limited-edition-1.png"
+    },
+    {
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\xeric-halograph-ii-automatic-green-brown-limited-edition-2.png",
+      "PackagePath": "staticwebassets\\image\\products\\xeric-halograph-ii-automatic-green-brown-limited-edition-2.png"
+    },
+    {
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\xeric-halograph-ii-automatic-green-brown-limited-edition-3.png",
+      "PackagePath": "staticwebassets\\image\\products\\xeric-halograph-ii-automatic-green-brown-limited-edition-3.png"
+    },
+    {
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\xeric-halograph-ii-automatic-green-brown-limited-edition-4.png",
+      "PackagePath": "staticwebassets\\image\\products\\xeric-halograph-ii-automatic-green-brown-limited-edition-4.png"
+    },
+    {
+      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\products\\xeric-halograph-ii-automatic-green-brown-limited-edition-5.png",
+      "PackagePath": "staticwebassets\\image\\products\\xeric-halograph-ii-automatic-green-brown-limited-edition-5.png"
     },
     {
       "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\visa.png",
@@ -411,26 +431,6 @@
     {
       "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\world_pay.png",
       "PackagePath": "staticwebassets\\image\\world_pay.png"
-    },
-    {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\xeric-halograph-ii-automatic-green-brown-limited-edition-1.png",
-      "PackagePath": "staticwebassets\\image\\xeric-halograph-ii-automatic-green-brown-limited-edition-1.png"
-    },
-    {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\xeric-halograph-ii-automatic-green-brown-limited-edition-2.png",
-      "PackagePath": "staticwebassets\\image\\xeric-halograph-ii-automatic-green-brown-limited-edition-2.png"
-    },
-    {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\xeric-halograph-ii-automatic-green-brown-limited-edition-3.png",
-      "PackagePath": "staticwebassets\\image\\xeric-halograph-ii-automatic-green-brown-limited-edition-3.png"
-    },
-    {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\xeric-halograph-ii-automatic-green-brown-limited-edition-4.png",
-      "PackagePath": "staticwebassets\\image\\xeric-halograph-ii-automatic-green-brown-limited-edition-4.png"
-    },
-    {
-      "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\image\\xeric-halograph-ii-automatic-green-brown-limited-edition-5.png",
-      "PackagePath": "staticwebassets\\image\\xeric-halograph-ii-automatic-green-brown-limited-edition-5.png"
     },
     {
       "Id": "H:\\ASP_MVC\\WatchesShop\\wwwroot\\js\\main.js",

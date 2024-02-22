@@ -1,0 +1,46 @@
+<div>
+  <span>Cac gi vay</span>
+  <br>
+  <button onclick="Click1()">Color = Black</button>
+  <br>
+  <button onclick="Click2()">Categories = Luxury</button>
+
+  <h1 id="loading">Loading</h1>
+  <div id="products__list">
+
+  </div>
+</div>
+
+@section JS {
+  <script>
+    const list = document.querySelector('#products__list')
+    const loading = document.querySelector('#loading')
+
+    const Click1 = () => {
+      renderProducts('?colors=Black')
+      let newurl = window.location.protocol + "//" + window.location.host + window.location.pathname + '?colors=Black';
+      window.history.pushState({ path: newurl }, '', newurl);
+    }
+
+    const Click2 = () => {
+      renderProducts('?categories=Luxury')
+    }
+
+    const renderProducts = (params = '') => {
+      loading.style.display = "block"
+
+      const xhr = new XMLHttpRequest();
+      xhr.open("GET", `/test/filter${params}`, true);
+
+      xhr.onreadystatechange = () => {
+        if (xhr.readyState == 4 && xhr.status == 200) {
+          loading.style.display = "none"
+          list.innerHTML = xhr.responseText
+        }
+      }
+      xhr.send();
+    }
+    renderProducts()
+
+  </script>
+}

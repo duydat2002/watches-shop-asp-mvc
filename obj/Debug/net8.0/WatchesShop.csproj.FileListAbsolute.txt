@@ -256,3 +256,4 @@ H:\ASP_MVC\WatchesShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.
 H:\ASP_MVC\WatchesShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 H:\ASP_MVC\WatchesShop\obj\Debug\net8.0\WatchesShop.csproj.AssemblyReference.cache
 H:\ASP_MVC\WatchesShop\obj\Debug\net8.0\WatchesShop.csproj.CopyComplete
+H:\ASP_MVC\WatchesShop\obj\Debug\net8.0\WatchesShop.sourcelink.json

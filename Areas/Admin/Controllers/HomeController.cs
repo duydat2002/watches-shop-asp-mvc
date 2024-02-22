@@ -37,7 +37,7 @@ namespace WatchesShop.Areas.Admin.Controllers
         if (productImage != null)
         {
           string _fileName = Path.GetFileName(productImage.FileName);
-          string path = Path.Combine(_environment.ContentRootPath, "wwwroot", "image", _fileName);
+          string path = Path.Combine(_environment.ContentRootPath, "wwwroot", "image", "products", _fileName);
 
           using (var fileStream = new FileStream(path, FileMode.Create))
           {
