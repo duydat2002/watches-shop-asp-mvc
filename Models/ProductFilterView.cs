@@ -14,5 +14,9 @@ public class ProductFilterView
 
   public int MaxDiscount { get; set; }
 
+  public string Colors { get; set; } = null!;
+
+  public string Sizes { get; set; } = null!;
+
   public string ProductImages { get; set; } = null!;
 }

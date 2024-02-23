@@ -14,32 +14,34 @@ public class ProductController : Controller
     }
 
     [Route("products/{category?}")]
-    public IActionResult Index(string category)
+    public IActionResult Index(string category, string search = "")
     {
+        string categoryName;
         switch (category)
         {
             case "men-watches":
                 ViewData["category"] = "Men Watches";
-                ViewData["categoryName"] = "Men";
+                categoryName = "Men";
                 break;
             case "women-watches":
                 ViewData["category"] = "Women Watches";
-                ViewData["categoryName"] = "Women";
+                categoryName = "Women";
                 break;
             case "sport-watches":
                 ViewData["category"] = "Sport Watches";
-                ViewData["categoryName"] = "Sport";
+                categoryName = "Sport";
                 break;
             case "luxury-watches":
                 ViewData["category"] = "Luxury Watches";
-                ViewData["categoryName"] = "Luxury";
+                categoryName = "Luxury";
                 break;
             default:
                 return RedirectToAction("PageNotFound", "Home");
         }
+        ViewData["categoryName"] = categoryName;
 
-        ViewBag.sizes = _entityContext.GetSizes();
-        ViewBag.colors = _entityContext.GetColors();
+        ViewBag.sizes = _entityContext.GetSizes(search, categoryName);
+        ViewBag.colors = _entityContext.GetColors(search, categoryName);
 
         return View();
     }
@@ -60,8 +62,6 @@ public class ProductController : Controller
         }
 
         var products = _entityContext.FilterProducts(search, categories, colors, sizes, priceStart, priceEnd, pageNumber, pageSize, sort);
-
-        Console.WriteLine("sort: " + sort);
 
         return PartialView("_ProductItem", products);
     }

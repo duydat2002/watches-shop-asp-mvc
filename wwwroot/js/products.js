@@ -1,4 +1,4 @@
-const params = new URLSearchParams(window.location.search);
+let params = new URLSearchParams(window.location.search);
 const categoryName = document
   .querySelector("#categoryName")
   .getAttribute("data-category");
@@ -8,7 +8,8 @@ const filterClearBtn = document.querySelector(".search-filter-clearall");
 const filterButton = document.querySelector(".filter__price-btn");
 
 filterClearBtn.addEventListener("click", () => {
-  filterProducts(new URLSearchParams());
+  params = new URLSearchParams();
+  filterProducts();
   clearAllFilter();
 });
 filterButton.addEventListener("click", () => {
@@ -35,10 +36,10 @@ filterButton.addEventListener("click", () => {
     );
   else params.delete("price");
 
-  filterProducts(params);
+  filterProducts();
 });
 
-const filterProducts = (params) => {
+const filterProducts = () => {
   const xhr = new XMLHttpRequest();
 
   xhr.open(
@@ -64,7 +65,7 @@ const filterProducts = (params) => {
   };
   xhr.send();
 };
-filterProducts(params);
+filterProducts();
 
 const clearAllFilter = () => {
   const checkedFilter = document.querySelectorAll(
@@ -175,7 +176,7 @@ const removeActiveFilter = () => {
         else params.delete("sizes");
       }
 
-      filterProducts(params);
+      filterProducts();
       renderFilters();
     });
   });
@@ -203,7 +204,7 @@ const sortHandle = () => {
       params.set("sort", item.dataset.value);
       sortValue.innerHTML = item.innerHTML;
       changeUrlParams(params.toString());
-      filterProducts(params);
+      filterProducts();
     });
   });
 

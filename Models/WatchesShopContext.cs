@@ -64,15 +64,21 @@ public partial class WatchesShopContext : DbContext
         return products;
     }
 
-    public List<Size> GetSizes()
+    public List<Size> GetSizes(string ProductName = "", string Categories = "")
     {
-        var sizes = this.Sizes.FromSqlRaw("EXECUTE pr_GetSizes").ToList();
+        var sizes = this.Sizes.FromSqlRaw("EXECUTE pr_GetSizes @ProductName, @Categories",
+            new SqlParameter("@ProductName", ProductName),
+            new SqlParameter("@Categories", Categories)
+        ).ToList();
         return sizes;
     }
 
-    public List<Color> GetColors()
+    public List<Color> GetColors(string ProductName = "", string Categories = "")
     {
-        var colors = this.Colors.FromSqlRaw("EXECUTE pr_GetColors").ToList();
+        var colors = this.Colors.FromSqlRaw("EXECUTE pr_GetColors @ProductName, @Categories",
+            new SqlParameter("@ProductName", ProductName),
+            new SqlParameter("@Categories", Categories)
+        ).ToList();
         return colors;
     }
 

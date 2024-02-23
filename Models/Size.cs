@@ -9,5 +9,7 @@ public partial class Size
 
     public string SizeName { get; set; } = null!;
 
+    public int? Quantity { get; set; }
+
     public virtual ICollection<ProductVariant> ProductVariants { get; set; } = new List<ProductVariant>();
 }
